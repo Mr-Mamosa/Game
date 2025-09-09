@@ -24,6 +24,21 @@ The game features farming, resource collection, dynamic environments, and modula
 - **Level Design Tool:** Tiled Map Editor 🗺️  
 
 ---
+## 🚀 Getting Started
+
+Follow these steps to clone the repository and run the game on your local machine.
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Mr-Mamosa/Game.git
+cd Game
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+python main.py
+
+
+
+
 
 
 
